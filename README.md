@@ -1,4 +1,4 @@
-# Hi, I'm Waverly Kyle Smith
+# Hi, I'm Waverly Smith
 Sports analytics | Data modeling for player & team performance | R, Python
 
 I build models and tools that turn raw data into decisions coaches and front offices can actually use - not just charts, but printable, in-game-ready outputs for nontechnical staff.

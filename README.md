@@ -30,6 +30,6 @@ Win-probability-omtimal decision modeling applied to 4th-down play-calling since
 [Linkedin](https://www.linkedin.com/in/wkyle-smith/)
 [Email](mailto:wkylesmith3@gmail.com)
 
-*Open to sports analytics roles - happy to walk through the modeling decisions and limitations behind any of the projects above.* 
-*Actively adding new analyses - check back for updates*
-*Additional work available upon request, some projects use data under a data-use agreement and aren't public*
+*Open to sports analytics roles - happy to walk through the modeling decisions and limitations behind any of the projects above.* <br>
+*Actively adding new analyses - check back for updates* <br>
+***Additional work available upon request, some projects use data under a data-use agreement and aren't public*** <br>

@@ -1,5 +1,5 @@
 # Hi, I'm Waverly Smith
-Sports analytics | Data modeling for player & team performance | R, Python
+Sports analytics | Data modeling for player & team performance | R, Python, SQL, HTML
 
 I build models and tools that turn raw data into decisions coaches and front offices can actually use - not just charts, but printable, in-game-ready outputs for nontechnical staff.
 
@@ -16,10 +16,15 @@ Drive-level analysis of whether unpredictable play-calling improves NFL offenses
 Team-fixed-effects regression testing whether rookie cap spending and roster construction relates to offensive volatility, finding head coach continuity as the strongest predictor.
 `R` · `nflfastR` · `SpoTrac`
 
+**[Fourth Down Coaching Analysis](https://github.com/WaverlyKyleSmith/fourth-down-coaching-analysis)**
+Win-probability-omtimal decision modeling applied to 4th-down play-calling since 2018, paired with two custom coach-level indices (Decision Accuracy and Execution) finding a measurable leaguewide shift toward optimal play and a real, separable gap between reading situations well and converting on them.
+[Interactive scatterplot →](https://waverlykylesmith.github.io/fourth-down-coaching-analysis/visuals/scatterplot-all-coaches.html)
+`R` · `nflfastR` · `HTML`
+
 ## Toolbox
-- Languages: R, Python, SQL
-- Data: nflfastR, PFF, Trackman, Player Tracking
-- Reporting: R Markdown, reportlab (Python)
+- Languages: R, Python, SQL, HTML
+- Data: nflfastR, nfl4th, PFF, Trackman, Player Tracking, Pro Football Reference
+- Reporting: R Markdown, reportlab (Python), HTML
 
 ## Let's Connect
 [Linkedin](https://www.linkedin.com/in/wkyle-smith/)

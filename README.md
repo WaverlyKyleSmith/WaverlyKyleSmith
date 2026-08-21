@@ -19,7 +19,7 @@ Team-fixed-effects regression testing whether rookie cap spending and roster con
 **[Fourth Down Coaching Analysis](https://github.com/WaverlyKyleSmith/fourth-down-coaching-analysis)**
 Win-probability-omtimal decision modeling applied to 4th-down play-calling since 2018, paired with two custom coach-level indices (Decision Accuracy and Execution) finding a measurable leaguewide shift toward optimal play and a real, separable gap between reading situations well and converting on them.
 [Interactive scatterplot](https://waverlykylesmith.github.io/fourth-down-coaching-analysis/visuals/scatterplot-all-coaches.html)
-\n`R` · `nflfastR` · `HTML`
+`R` · `nflfastR` · `HTML`
 
 ## Toolbox
 - Languages: R, Python, SQL, HTML

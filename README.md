@@ -5,15 +5,15 @@ I build models and tools that turn raw data into decisions coaches and front off
 
 ## Featured Projects
 **[Stolen Base Probability Model & Pregame Scouting Report](https://github.com/WaverlyKyleSmith/stolen-base-probability-model)**
-Logistic regression on NECBL Trackman data (pitch velocity, movement, catcher metrics, count) to predict stolen base success, paired with a custom catcher metric ("Backstop+") and an automated PDF report generator for pregame scouting.
+Logistic regression on NECBL Trackman data (pitch velocity, movement, catcher metrics, count) to predict stolen base success, paired with a custom catcher metric ("Backstop+") and an automated PDF report generator for pregame scouting. <br>
 `R` · `Python` · `Trackman`
 
 **[Play-Calling Variation & Offensive Success](https://github.com/WaverlyKyleSmith/playcalling-variation-and-offensive-success)**
-Drive-level analysis of whether unpredictable play-calling improves NFL offenses, using nflfastR + PFF data. Finds a concave (diminishing-returns) relationship between play variationand EPA per play.
+Drive-level analysis of whether unpredictable play-calling improves NFL offenses, using nflfastR + PFF data. Finds a concave (diminishing-returns) relationship between play variationand EPA per play. <br>
 `R` · `nflfastR` · `PFF`
 
 **[Rookie Contract Allocations and Team Stability in the NFL](https://github.com/WaverlyKyleSmith/nfl-rookie-contracts-and-team-stability)**
-Team-fixed-effects regression testing whether rookie cap spending and roster construction relates to offensive volatility, finding head coach continuity as the strongest predictor.
+Team-fixed-effects regression testing whether rookie cap spending and roster construction relates to offensive volatility, finding head coach continuity as the strongest predictor. <br>
 `R` · `nflfastR` · `SpoTrac`
 
 **[Fourth Down Coaching Analysis](https://github.com/WaverlyKyleSmith/fourth-down-coaching-analysis)**

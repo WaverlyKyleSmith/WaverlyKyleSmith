@@ -4,7 +4,7 @@ Sports analytics | Data modeling for player & team performance | R, Python, SQL,
 I build models and tools that turn raw data into decisions coaches and front offices can actually use - not just charts, but in-game-ready outputs for nontechnical staff.
 
 ## Featured Projects
-**[Trench Matchup Win Probability](https://github.com/WaverlyKyleSmith/trench-matchup-win-probability) Sequence vs. snapshot modeling of NFL pass-block outcomes from Big Data Bowl tracking data: an LSTM that reads every frame of a rep (AUC 0.813) outperforms an XGBoost model on sampled snapshots (0.757). Translated into blocker- and team-level win rate over expected (WROE), and the model infers on its own that tackles face harder matchups than guards or centers.<br>
+**[Trench Matchup Win Probability](https://github.com/WaverlyKyleSmith/trench-matchup-win-probability)** Sequence vs. snapshot modeling of NFL pass-block outcomes from Big Data Bowl tracking data: an LSTM that reads every frame of a rep (AUC 0.813) outperforms an XGBoost model on sampled snapshots (0.757). Translated into blocker- and team-level win rate over expected (WROE), and the model infers on its own that tackles face harder matchups than guards or centers.<br>
 [Dashboard walkthrough](https://github.com/WaverlyKyleSmith/trench-matchup-win-probability/blob/main/dashboard/walkthrough/README.md)<br>
 `Python` · `PyTorch` · `PFF` · `Player Tracking` · `HTML`
 
